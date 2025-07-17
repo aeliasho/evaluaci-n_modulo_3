@@ -1,0 +1,5 @@
+@use "./components/botones" as *;
+@use "../scss/abstracts/mixins" as *;
+@use "../scss/components/carousel" as *;
+@use "../scss/abstracts/variables" as *;
+@import "../../node_modules/bootstrap/scss/bootstrap";

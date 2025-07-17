@@ -1,0 +1,6 @@
+@use "../abstracts/mixins" as *;
+
+.carousel__img{
+    @include carrusel__img;
+    @include carrusel__img-desktop;
+}

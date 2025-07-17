@@ -1,0 +1,15 @@
+@use "../abstracts/mixins" as *;
+@use "../abstracts/variables" as *;
+
+.carousel__btn{
+    @include color_botones
+}
+
+.pricing__cta-btnpro {
+   @include color_botones
+}
+
+.auth-form__submit-iniciose{
+    @include color_botones
+}
+

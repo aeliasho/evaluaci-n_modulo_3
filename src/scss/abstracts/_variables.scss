@@ -1,0 +1,11 @@
+$warning: rgb(13, 255, 0);
+$primary: #ffe600;
+$danger: #e73cd6;
+$mi-fuente-principal: 'Barlow', sans-serif;
+$font-family-sans-serif: $mi-fuente-principal;
+
+@import "../../../node_modules/bootstrap/scss/bootstrap-utilities.scss";
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+
